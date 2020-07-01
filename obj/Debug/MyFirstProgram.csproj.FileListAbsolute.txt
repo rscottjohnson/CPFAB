@@ -1,0 +1,12 @@
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/chapter_02/MyFirstProgram/MyFirstProgram/bin/Debug/MyFirstProgram.exe
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/chapter_02/MyFirstProgram/MyFirstProgram/bin/Debug/MyFirstProgram.pdb
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/chapter_02/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.csprojAssemblyReference.cache
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/chapter_02/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/chapter_02/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.exe
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/chapter_02/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.pdb
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/MyFirstProgram/MyFirstProgram/bin/Debug/MyFirstProgram.exe
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/MyFirstProgram/MyFirstProgram/bin/Debug/MyFirstProgram.pdb
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.csprojAssemblyReference.cache
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.exe
+/Users/sjwvuie/dev/ECU_CON/CProgramming/PfAB/MyFirstProgram/MyFirstProgram/obj/Debug/MyFirstProgram.pdb
